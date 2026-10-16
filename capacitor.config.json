@@ -1,0 +1,7 @@
+{
+  "appId": "ir.amoozyar.app",
+  "appName": "آموزیار",
+  "webDir": "www",
+  "backgroundColor": "#eef0ff",
+  "ios": { "contentInset": "never" }
+}
